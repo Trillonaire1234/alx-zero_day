@@ -1,1 +1,1 @@
-Preparing the next git updated
+Preparing the git updated
